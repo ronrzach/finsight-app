@@ -5,3 +5,4 @@ out/
 target/
 .idea/
 .DS_Store
+ai-service/data/
